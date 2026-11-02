@@ -1,0 +1,10 @@
+.DS_Store
+config/
+data/
+.env
+*.log
+*.key
+*.jks
+*.keystore
+__pycache__/
+*.pyc

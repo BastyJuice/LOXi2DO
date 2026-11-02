@@ -1,0 +1,9 @@
+{
+  "apk_path": "/plugins/loxi2do/LOXi2.apk",
+  "bytes": 580656,
+  "min_sdk": 30,
+  "package_name": "de.loxi2",
+  "sha256": "12271d677119564020a63d62bf3cabe01f6b9c58cd8a91a67b1269ca1a46438f",
+  "version_code": 48,
+  "version_name": "0.13.1"
+}
