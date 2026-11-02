@@ -9,7 +9,7 @@ Tablets sind auch nur Aktoren mit Display.
 
 Deine Android- und Fire-Tablets zentral im LoxBerry verwalten.
 
-**[Plugin herunterladen](https://github.com/BastyJuice/LOXi2DO/raw/refs/heads/main/dist/LOXi2DO-0.9.1.zip)** · [Einrichtung](#schnellstart) · [Forum](https://www.loxforum.com/forum/projektforen/loxberry/plugins/494519-loxi2do-android-tablet-control-tablets-sind-auch-nur-aktoren)
+**[Plugin herunterladen](https://github.com/BastyJuice/LOXi2DO/releases/download/0.9.1/LOXi2DO-0.9.1.zip)** · [Einrichtung](#schnellstart) · [Forum](https://www.loxforum.com/forum/projektforen/loxberry/plugins/494519-loxi2do-android-tablet-control-tablets-sind-auch-nur-aktoren)
 
 LoxBerry 4 · Android 11+ · Lokal im eigenen Netzwerk
 
@@ -37,9 +37,9 @@ Du brauchst einen **LoxBerry 4** und ein Tablet mit **Android 11 oder neuer** im
 
 ### 1. Plugin installieren
 
-Das **[Installationspaket herunterladen](https://github.com/BastyJuice/LOXi2DO/raw/refs/heads/main/dist/LOXi2DO-0.9.1.zip)** und über die Pluginverwaltung des LoxBerry installieren.
+Das **[Installationspaket herunterladen](https://github.com/BastyJuice/LOXi2DO/releases/download/0.9.1/LOXi2DO-0.9.1.zip)** und über die Pluginverwaltung des LoxBerry installieren.
 
-**Enthalten:** Plugin **0.9.1** und Android-App **0.13.1**. Für die Installation das fertige Paket aus `dist/` verwenden.
+**Enthalten:** Plugin **0.9.1** und Android-App **0.13.1**.
 
 ### 2. App auf dem Tablet installieren
 
